@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurimochi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills ⚡
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,solidity,docker,kubernetes,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,rust,solidity,docker,kubernetes,kali)](https://skillicons.dev)
 
 ## PGP
 ```
