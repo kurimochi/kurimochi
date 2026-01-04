@@ -3,8 +3,8 @@
 - I occasionally make tools and libraries for CTF and PPC (mostly for fun lol)
 - Please check out my X: [@kurimochi_](https://x.com/kurimochi_)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurimochi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurimochi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kurimochi&show_icons=true&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kurimochi&layout=donut)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ## Skills ⚡
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,rust,solidity,docker,kubernetes,kali)](https://skillicons.dev)
