@@ -1,15 +1,23 @@
-## Hi there 👋
-- I'm a Japanese student CTF and PPC player🏴
-- I occasionally make tools and libraries for CTF and PPC (mostly for fun lol)
-- Please check out my X: [@kurimochi_](https://x.com/kurimochi_)
+<p align="center">
+  <a href="https://github.com/kurimochi">
+    <img src="https://komarev.com/ghpvc/?username=kurimochi" />
+  </a>
+  <a href="https://qiita.com/kurimochi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/kurimochi/posts.svg" />
+  </a>
+  <a href="https://qiita.com/kurimochi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/kurimochi/contributions.svg" />
+  </a>
+</p>
 
+# 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kurimochi&show_icons=true&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kurimochi&layout=donut)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-## Skills ⚡
+# ⚡ Skills
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,rust,solidity,docker,kubernetes,kali)](https://skillicons.dev)
 
-## PGP
+# 🗝️ PGP
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: User-ID:	Kurimochi <kurimochi.sec@gmail.com>
