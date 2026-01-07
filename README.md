@@ -1,23 +1,13 @@
-<p align="center">
-  <a href="https://github.com/kurimochi">
-    <img src="https://komarev.com/ghpvc/?username=kurimochi" />
-  </a>
-  <a href="https://qiita.com/kurimochi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/kurimochi/posts.svg" />
-  </a>
-  <a href="https://qiita.com/kurimochi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/kurimochi/contributions.svg" />
-  </a>
-</p>
-
-# 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kurimochi&show_icons=true&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kurimochi&layout=donut)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-# ⚡ Skills
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,rust,solidity,docker,kubernetes,kali)](https://skillicons.dev)
+# Interested / Learned
+[![Interested](https://skillicons.dev/icons?i=ts,go,nix,latex,ipfs,)](https://skillicons.dev)
 
-# 🗝️ PGP
+# Skill
+[![Skill](https://skillicons.dev/icons?i=python,cpp,rust,solidity,md,docker,kubernetes,arch,kali)](https://skillicons.dev)
+
+# PGP
 User-ID:     Kurimochi <kurimochi.sec@gmail.com>  
 Created:     2025/05/26 11:33  
 Type:        Ed25519 (sign) + Curve25519 (encrypt)  
