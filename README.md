@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kurimochi&layout=donut)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 # Interested / Learned
-[![Interested](https://skillicons.dev/icons?i=ts,go,nix,latex,ipfs,)](https://skillicons.dev)
+[![Interested](https://skillicons.dev/icons?i=ts,go,nix,latex,ipfs)](https://skillicons.dev)
 
 # Skill
 [![Skill](https://skillicons.dev/icons?i=python,cpp,rust,solidity,md,docker,kubernetes,arch,kali)](https://skillicons.dev)
