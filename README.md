@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kurimochi&show_icons=true&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![AtCoder](https://github-sns-profile-card-e53bc5obaa-an.a.run.app/svg?platform=atcoder&userid=kurimochi)](https://github.com/Teamsasa/github-sns-profile-card)
+
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kurimochi&show_icons=true&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kurimochi&layout=donut)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 # Interested / Learned
